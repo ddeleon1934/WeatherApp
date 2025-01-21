@@ -11,9 +11,8 @@ This is a simple weather app built with Python and PyQt5. It fetches weather dat
 - Weather-specific emoji icons.
 
 ## Enhancements
-I added the following features to the original tutorial:
+I added a few changes to the original tutorial:
 - Display both Celsius and Fahrenheit.
-- Improved error handling for various HTTP status codes.
 - Customized the layout and styling.
 
 ## Credits
